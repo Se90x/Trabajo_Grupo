@@ -1,6 +1,4 @@
-<img src="https://ctftime.org/media/team/Cube-Icon_RGB_1024.png" width="100">
-
-# Iniciación al Hacking Ético y Ciberseguridad
+# <img src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif?cid=6c09b952fh8pcp0r4b6fsmtcx5yh4jstgfl0pu2bu6d1vzdl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"> Iniciación al Hacking Ético y Ciberseguridad
 
 La ciberseguridad es la práctica ofensiva o defensiva de proteger los sistemas, redes y datos contra ataques 
 digitales.
