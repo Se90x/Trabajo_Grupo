@@ -30,7 +30,7 @@
 - VPN
 - Redes
 
-### Introduccion al Entorno de Hacking
+### 🛠Introduccion al Entorno de Hacking
 
 **⚙Configuración del Entorno de Hacking**
 - Software
@@ -40,8 +40,17 @@
 - Conexión mediante OpenVPN
 - Recomendaciones de Seguridad
 
-**📲Reconocimiento con Nmap**
+**👁‍🗨Reconocimiento con Nmap**
 - Introduccion NMAP
 - Aprender a Usarlo
 
-### Fundamentos de Redes
+### 🌐Fundamentos de Redes
+
+**Protocolos de Red**
+- TCP/IP
+- HTTP/HTTPS
+- DNS
+
+**Análisis de Tráfico de Red**
+
+**Identificación de Vulnerabilidades**
