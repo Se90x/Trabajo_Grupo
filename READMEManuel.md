@@ -1,2 +1,1 @@
-# MANUELESLICEU
-**HOLA**
+# \uf1b2 Iniciación al Hacking Ético y Ciberseguridad
