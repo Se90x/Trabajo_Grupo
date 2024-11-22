@@ -52,5 +52,11 @@
 - DNS
 
 **Análisis de Tráfico de Red**
+- Uso de herramientas
+- Objetivos del análisis
 
 **Identificación de Vulnerabilidades**
+- Herramientas y técnicas
+- Escaneo de puertos
+- Análisis de vulnerabilidades
+- Pruebas de penetración
