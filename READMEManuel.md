@@ -1,7 +1,6 @@
 # <img src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif?cid=6c09b952fh8pcp0r4b6fsmtcx5yh4jstgfl0pu2bu6d1vzdl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40"> Iniciación al Hacking Ético y Ciberseguridad
 
-La ciberseguridad es la práctica ofensiva o defensiva de proteger los sistemas, redes y datos contra ataques 
-digitales.
+¡Descubre todo lo que necesitas para dominar la ciberseguridad y conquistar los retos de Hack The Box en un solo curso!
 
 ---
 
@@ -31,4 +30,18 @@ digitales.
 - VPN
 - Redes
 
-### Configuración del Entorno de Hacking
+### Introduccion al Entorno de Hacking
+
+**⚙Configuración del Entorno de Hacking**
+- Software
+- Instalación y configuración de OpenVPN
+
+**🔗Conexión a Hack The Box (HTB)**
+- Conexión mediante OpenVPN
+- Recomendaciones de Seguridad
+
+**📲Reconocimiento con Nmap**
+- Introduccion NMAP
+- Aprender a Usarlo
+
+### Fundamentos de Redes
