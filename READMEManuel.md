@@ -13,7 +13,7 @@
 
 ---
 
-### 📖Introducción a la Ciberseguridad
+## 📖Introducción a la Ciberseguridad
 
 **¿Qué es la Ciberseguridad?**
 
@@ -30,7 +30,7 @@
 - VPN
 - Redes
 
-### 🛠Introduccion al Entorno de Hacking
+## 🛠Introduccion al Entorno de Hacking
 
 **⚙Configuración del Entorno de Hacking**
 - Software
@@ -44,7 +44,7 @@
 - Introduccion NMAP
 - Aprender a Usarlo
 
-### 🌐Fundamentos de Redes
+## 🌐Fundamentos de Redes
 
 **Protocolos de Red**
 - TCP/IP
