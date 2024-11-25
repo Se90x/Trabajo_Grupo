@@ -31,7 +31,13 @@ Las teorías científicas proponen la vida como resultado de una serie compleja 
 
 ## 6. Mi propia teoria ✅
 Mi teoria yo en este caso lo que voy a hacer es comparar y decir si estoy a favor o en contra de las teorias explicadas anteriormente:
-- Primera teoria 
+- Primera teoria 🤯
+Desde mi punto de vista la teoria del **Big Bang** es cierta ya que creo que por el choque de dos metioritos o entre dos piedras es una explosion masiva, yo creo que con esa expansion se formaron pequeños fragmentos de ADN. Con ese ADN se fue creando vida en la tierra, con eso salieron todos los tipos de vegetacion  y tipos de animales. Con el tiempo cada tipo de vgetacion y de animal se tuvo que ir adaptando a tu enterno y establecer su habitat.
+ A si que yo estoy a favor de esta teoria
+
+- Segunda teoria 🐒
+Esta teoria de **Charles Darwin** que el esta de acuerdo con la teoria del big bang pero el dice que hemos evolucionado a partir de los monos. Yo creo que esto es falso, si que es verdad que tenemos caracteristicas parecidas a los monos o incluso hacemos cosas muy parecidas, pero si de verdad venimos de los monos no entiendo poruque en la actualidad no continuamos evolucionando de los monos. Asi que no estoy de acuerdo con esta teoria. 
+
 
 
 
