@@ -45,7 +45,12 @@ Esta teoria te dice o explica que la tierra se creo de manera expontanea esta te
 Esta teoria es de **Arrhenius**, se basa en que la vida tiene un origen extraterreste yo creo que es imposible aunque creo que hay vida en otros planetas (no digo que sean si o si aliens o extraterrestes pero algun tipo de vida hay). Esta teoria para mi no es cierta porque que seriamos totalmente diferentes a lo que somos actualmente, ya que si hemos visto fotos o algo relacionado con los extraterrete no somos nada parecido. Otra pregunta es como han llegado este tipo de vida a la tierra.
 
 - Quinta teoria 🧬
-Esta teoria es de **Alexandr Oparin** se basa en el tema del ADN y de la genetica, esta teoria es la que mas concuerda con la mia 
+Esta teoria es de **Alexandr Oparin** se basa en el tema del ADN y de la genetica, esta teoria es la que mas concuerda con la mia ya que opino lo mismo que Oparin pero cambiando algunas cosas ya que como he dicho antes por el ADN se forman cuerpos de vida. Asi que estoy de acuerdo con esta teoria.
+
+## Conclusión
+Cada uno tiene sus teorias o sus hipotesis, y para cada uno su teoria sera la cierta. Hay mil tipos de teorias en el mundo pero  yo he puesto las que mas se escuchan o mas se hablan.
+
+¡Gracias por leer esto y no tengas miedo a compartir tus teorias sobre **el origen de la vida**!🌐
 
 
 
