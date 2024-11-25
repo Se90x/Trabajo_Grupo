@@ -63,6 +63,8 @@
 - Pruebas de penetración
 
 ## ⚠Tecnicas Ataque
+<span style="color:red;">Este texto está en rojo.</span>
+#### No se puede hackear en sitios públicos ya que es totalmente ilegal. Los ataques solo ocurren en redes controladas o con acceso autorizado mediante contrato.
 
 **♻Ataques Comunes**
 - Inyeccion SQL
