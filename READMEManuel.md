@@ -41,22 +41,36 @@
 - Recomendaciones de Seguridad
 
 **👁‍🗨Reconocimiento con Nmap**
-- Introduccion NMAP
+- Introduccion NMAP (`nmap`, `-sV`, `-p-`...)
 - Aprender a Usarlo
 
 ## 🌐Fundamentos de Redes
 
-**Protocolos de Red**
+**📶Protocolos de Red**
 - TCP/IP
 - HTTP/HTTPS
 - DNS
 
-**Análisis de Tráfico de Red**
+**🕵️‍♀️Análisis de Tráfico de Red**
 - Uso de herramientas
+    - Wireshark, Nmap...
 - Objetivos del análisis
 
-**Identificación de Vulnerabilidades**
+**💡Identificación de Vulnerabilidades**
 - Herramientas y técnicas
 - Escaneo de puertos
 - Análisis de vulnerabilidades
 - Pruebas de penetración
+
+## ⚠Tecnicas Ataque
+
+**♻Ataques Comunes**
+- Inyeccion SQL
+- XSS
+- DDOS, Fuerza Bruta, CSRF.
+
+**🔁Simulacion Ataques**
+- Aquí aprenderás cómo ejecutar estos ataques de manera ética y en un entorno seguro, sin comprometer redes o sistemas reales.
+
+**📓Ejemplos Practicos**
+- A lo largo del curso, realizaremos ejemplos prácticos de cada uno de los ataques.
