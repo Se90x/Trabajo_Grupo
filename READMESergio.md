@@ -21,7 +21,7 @@ A partir de los trabajos de **Alexandr Oparin** y de la comprensión del ADN y d
 
 Las teorías científicas proponen la vida como resultado de una serie compleja e impredecible de reacciones químicas inorgánicas que permitieron el paulatino surgimiento de las primeras y primitivas formas de vida celular.
 
-##Objetivos 💡
+## Objetivos 💡
 
 
 
