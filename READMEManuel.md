@@ -108,21 +108,6 @@
 
 ---
 
-# Al finalizar este curso, serás capaz de:
-- Comprender los fundamentos de la ciberseguridad y cómo proteger redes y sistemas.
-- Ejecutar pruebas de penetración en entornos controlados como Hack The Box.
-- Detectar y explotar vulnerabilidades comunes como inyecciones SQL y XSS.
-- Documentar y redactar informes de vulnerabilidad de manera profesional y clara.
-- Aplicar estrategias de resolución de máquinas y mejorar tus habilidades mediante la práctica constante.
-
-Este curso te proporcionará una base sólida en ciberseguridad y te preparará para enfrentar
-desafíos más avanzados en el campo del hacking ético y las pruebas de penetración. ¡Estás listo
-para comenzar tu viaje en el mundo de la ciberseguridad!
-
-**Nos Vemos en el Curso**
-¡El viaje ha comenzado! ¡No dejes de aprender y seguir avanzando en tu carrera en ciberseguridad!
-¡Nos vemos en el próximo desafío! 🚀
-
 # 🌟 ¡Gracias por Participar en el Curso! 🌟
 
 ---
