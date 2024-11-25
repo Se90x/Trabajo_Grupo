@@ -1,5 +1,13 @@
 #### Sergio Liceu
 # Teorias la vida en la tierra 🛸
+
+## Objetivos 💡
+- Investigar sobre las distintas teorias que nos plantean 
+- Sacar tus propias teorias
+- Sacar tus propias conclusiones
+- Mirar que teoria se corresponde o se parece mas a tu teoria planteada
+- Compartir tus propios pensamientos o tus propias teorias
+
 ## Primera teoria
 ### Big Bang 🤯
 -  La teoría del **Big Bang**, o teoría de la Gran Explosión, es la teoría del universo más extendida a día de hoy entre la comunidad científica. Explica el origen del universo desde un principio en el que toda la energía estaba concentrada en un punto diminuto de un tamaño más pequeño que un átomo.
@@ -21,7 +29,6 @@ A partir de los trabajos de **Alexandr Oparin** y de la comprensión del ADN y d
 
 Las teorías científicas proponen la vida como resultado de una serie compleja e impredecible de reacciones químicas inorgánicas que permitieron el paulatino surgimiento de las primeras y primitivas formas de vida celular.
 
-## Objetivos 💡
 
 
 
