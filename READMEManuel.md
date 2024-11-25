@@ -87,6 +87,69 @@
     - Usa las vulnerabilidades detectadas para obtener acceso a la máquina.
 - Escala de Privilegios
     - Una vez dentro, intenta obtener acceso de administrador para comprometer totalmente la máquina.
-    
-*En este curso habra ejercicios teoricos para aprender*
+
+*En este curso habra ejercicios teoricos para aprender.*
 #### Evita los errores, no seas un **novato**.
+
+## 📃💼Documentación e Informes
+
+**Importancia de Documentar los Ataques**
+- Rastreabilidad
+- Revisión y análisis
+- Comunicación clara
+
+**Cómo Redactar un Informe de Vulnerabilidad**
+- Resumen ejecutivo
+- Detalles técnicos
+- Recomendaciones de mitigación
+- Impacto
+
+*Tambien haremos ejemplos de informes y os enseñare*
+
+---
+
+# Al finalizar este curso, serás capaz de:
+- Comprender los fundamentos de la ciberseguridad y cómo proteger redes y sistemas.
+- Ejecutar pruebas de penetración en entornos controlados como Hack The Box.
+- Detectar y explotar vulnerabilidades comunes como inyecciones SQL y XSS.
+- Documentar y redactar informes de vulnerabilidad de manera profesional y clara.
+- Aplicar estrategias de resolución de máquinas y mejorar tus habilidades mediante la práctica constante.
+
+Este curso te proporcionará una base sólida en ciberseguridad y te preparará para enfrentar
+desafíos más avanzados en el campo del hacking ético y las pruebas de penetración. ¡Estás listo
+para comenzar tu viaje en el mundo de la ciberseguridad!
+
+**Nos Vemos en el Curso**
+¡El viaje ha comenzado! ¡No dejes de aprender y seguir avanzando en tu carrera en ciberseguridad!
+¡Nos vemos en el próximo desafío! 🚀
+
+# 🌟 ¡Gracias por Participar en el Curso! 🌟
+
+---
+
+## 🚀 Lo que has aprendido:
+
+- **Comprender los fundamentos de la ciberseguridad** y cómo proteger redes y sistemas.
+- **Ejecutar pruebas de penetración** en entornos controlados como Hack The Box.
+- **Detectar y explotar vulnerabilidades comunes** como inyecciones SQL y XSS.
+- **Documentar y redactar informes de vulnerabilidad** de manera profesional y clara.
+- **Aplicar estrategias de resolución de máquinas** y mejorar tus habilidades mediante la práctica constante.
+
+---
+
+## 🔒 Prepárate para el Futuro
+Este curso te ha proporcionado una base sólida en **ciberseguridad** y te ha preparado para enfrentar desafíos más avanzados en el campo del hacking ético y las pruebas de penetración. 
+
+### 🎯 ¡El viaje ha comenzado!
+Recuerda que la **ciberseguridad** es un campo dinámico y en constante cambio. La práctica constante y la curiosidad serán tus mejores aliados. Te animo a:
+- Explorar plataformas como **Hack The Box**.
+- Participar en comunidades de ciberseguridad.
+- Afrontar nuevos desafíos para seguir creciendo.
+
+---
+
+### 🌍 ¡Nos vemos en el próximo desafío!
+¡No dejes de aprender y avanzar en tu carrera en ciberseguridad!  
+**El futuro está en tus manos.** 💻🔐  
+
+¡Hasta la próxima! 🚀
