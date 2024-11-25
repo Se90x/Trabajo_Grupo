@@ -87,5 +87,6 @@
     - Usa las vulnerabilidades detectadas para obtener acceso a la máquina.
 - Escala de Privilegios
     - Una vez dentro, intenta obtener acceso de administrador para comprometer totalmente la máquina.
+    
 *En este curso habra ejercicios teoricos para aprender*
-#### Evita los errores de novatos.
+#### Evita los errores, no seas un **novato**.
