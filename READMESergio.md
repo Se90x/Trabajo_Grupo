@@ -1,7 +1,7 @@
 #### Sergio Liceu
 # Teorias la vida en la tierra 🛸
 
-## Objetivos 💡
+## Objetivos del repositorio 💡
 - Investigar sobre las distintas teorias que nos plantean 
 - Sacar tus propias teorias
 - Sacar tus propias conclusiones
