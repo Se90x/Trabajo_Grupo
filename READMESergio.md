@@ -39,9 +39,13 @@ Desde mi punto de vista la teoria del **Big Bang** es cierta ya que creo que por
 Esta teoria de **Charles Darwin** que el esta de acuerdo con la teoria del big bang pero el dice que hemos evolucionado a partir de los monos. Yo creo que esto es falso, si que es verdad que tenemos caracteristicas parecidas a los monos o incluso hacemos cosas muy parecidas, pero si de verdad venimos de los monos no entiendo poruque en la actualidad no continuamos evolucionando de los monos. Asi que no estoy de acuerdo con esta teoria.
 
 - Tercera teoria 🗣️
-Esta teoria te dice o explica que la tierra se creo de manera expontanea esta teoria se empezo a decir por el filosofo Aristoteles en la epoca mediaval. Yo creo que esto es falso porque para mi nada es o se genera espontanea, desde mi punto de vista tiene que ocurrir un fenomeno para que ocurra algo o que pase algo.
+Esta teoria te dice o explica que la tierra se creo de manera expontanea esta teoria se empezo a decir por el filosofo **Aristoteles** en la epoca mediaval. Yo creo que esto es falso porque para mi nada es o se genera espontanea, desde mi punto de vista tiene que ocurrir un fenomeno para que ocurra algo o que pase algo.
 
 - Cuarta teoria ⚛️
+Esta teoria es de **Arrhenius**, se basa en que la vida tiene un origen extraterreste yo creo que es imposible aunque creo que hay vida en otros planetas (no digo que sean si o si aliens o extraterrestes pero algun tipo de vida hay). Esta teoria para mi no es cierta porque que seriamos totalmente diferentes a lo que somos actualmente, ya que si hemos visto fotos o algo relacionado con los extraterrete no somos nada parecido. Otra pregunta es como han llegado este tipo de vida a la tierra.
+
+- Quinta teoria 🧬
+Esta teoria es de **Alexandr Oparin** se basa en el tema del ADN y de la genetica, esta teoria es la que mas concuerda con la mia 
 
 
 
