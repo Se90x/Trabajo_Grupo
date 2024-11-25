@@ -75,3 +75,17 @@
 
 **📓Ejemplos Practicos**
 - A lo largo del curso, realizaremos ejemplos prácticos de cada uno de los ataques.
+
+## <img src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif?cid=6c09b952fh8pcp0r4b6fsmtcx5yh4jstgfl0pu2bu6d1vzdl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40"> Resolucion de Maquinas HTB
+
+**☄Metodologia Resolucion**
+- Reconocimiento
+    - Escanea la maquina para identificar puertos y servicios abiertos con herramientas como Nmap
+- Enumeracion
+    - Examina los servicios encontrados para buscar posibles vulnerabilidades.
+- Explotacion
+    - Usa las vulnerabilidades detectadas para obtener acceso a la máquina.
+- Escala de Privilegios
+    - Una vez dentro, intenta obtener acceso de administrador para comprometer totalmente la máquina.
+*En este curso habra ejercicios teoricos para aprender*
+#### Evita los errores de novatos.
